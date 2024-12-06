@@ -1,0 +1,1 @@
+Integrate the `animator_plotting.PredictionAnimator` in the bias-variance discussion
